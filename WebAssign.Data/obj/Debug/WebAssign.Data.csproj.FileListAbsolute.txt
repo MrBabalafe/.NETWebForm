@@ -1,0 +1,12 @@
+C:\Users\radio\source\repos\WebAssign\WebAssign.Data\bin\Debug\WebAssign.Data.dll.config
+C:\Users\radio\source\repos\WebAssign\WebAssign.Data\bin\Debug\WebAssign.Data.dll
+C:\Users\radio\source\repos\WebAssign\WebAssign.Data\bin\Debug\WebAssign.Data.pdb
+C:\Users\radio\source\repos\WebAssign\WebAssign.Data\bin\Debug\EntityFramework.dll
+C:\Users\radio\source\repos\WebAssign\WebAssign.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\radio\source\repos\WebAssign\WebAssign.Data\bin\Debug\EntityFramework.xml
+C:\Users\radio\source\repos\WebAssign\WebAssign.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\radio\source\repos\WebAssign\WebAssign.Data\obj\Debug\WebAssign.Data.csprojAssemblyReference.cache
+C:\Users\radio\source\repos\WebAssign\WebAssign.Data\obj\Debug\WebAssign.Data.csproj.CoreCompileInputs.cache
+C:\Users\radio\source\repos\WebAssign\WebAssign.Data\obj\Debug\WebAssign.Data.csproj.CopyComplete
+C:\Users\radio\source\repos\WebAssign\WebAssign.Data\obj\Debug\WebAssign.Data.dll
+C:\Users\radio\source\repos\WebAssign\WebAssign.Data\obj\Debug\WebAssign.Data.pdb

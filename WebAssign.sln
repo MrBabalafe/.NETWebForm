@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAssign.Data", "WebAssign.Data\WebAssign.Data.csproj", "{8093E27E-9B0F-435D-8526-85063F6321A3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebAssign.App", "WebAssign.App\WebAssign.App.csproj", "{B089DA6C-6CAD-4092-BD79-D19CDB772857}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8093E27E-9B0F-435D-8526-85063F6321A3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8093E27E-9B0F-435D-8526-85063F6321A3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8093E27E-9B0F-435D-8526-85063F6321A3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8093E27E-9B0F-435D-8526-85063F6321A3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B089DA6C-6CAD-4092-BD79-D19CDB772857}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B089DA6C-6CAD-4092-BD79-D19CDB772857}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B089DA6C-6CAD-4092-BD79-D19CDB772857}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B089DA6C-6CAD-4092-BD79-D19CDB772857}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98AB4545-7CFC-4665-8913-848A1A6AF6F3}
+	EndGlobalSection
+EndGlobal
